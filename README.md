@@ -50,10 +50,10 @@ Our AI-powered travel planning app enhances trip planning experiences by providi
 10. **As a solo traveler**, I want the option to get itinerary ideas without sharing too much personal data **so that** I can discover new places while protecting my privacy.
 
 ## Activity Diagrams
-
-“As a partner traveler, I want reliable reviews of attractions and tours so that I can steer clear of tourist traps and focus on genuinely enjoyable experiences.”
-
-
+**User Story:**
+_“As a partner traveler, I want reliable reviews of attractions and tours so that I can steer clear of tourist traps and focus on genuinely enjoyable experiences.”_
+**Activity Diagram:**
+![Reliable Reviews Activity Diagram](Activity_Diagram.png)
 
 ## Clickable Prototype
 
