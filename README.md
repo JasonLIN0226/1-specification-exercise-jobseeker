@@ -57,6 +57,14 @@ _“As a partner traveler, I want reliable reviews of attractions and tours so t
 **Activity Diagram:**
 ![Reliable Reviews Activity Diagram](Activity_Diagram.png)
 
+**User Story:**
+
+_"As a solo traveler, I want to verify which viral travel posts are genuinely worth seeing so that I can avoid wasting time on overhyped destinations and focus on true highlights."_
+
+**Activity Diagram:**
+![Activity Diagram for Solo Traveler](Activity_Diagram2.png)
+
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
