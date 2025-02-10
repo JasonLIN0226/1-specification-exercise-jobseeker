@@ -54,7 +54,7 @@ Our AI-powered travel planning app enhances trip planning experiences by providi
 **User Story:**
 _“As a partner traveler, I want reliable reviews of attractions and tours so that I can steer clear of tourist traps and focus on genuinely enjoyable experiences.”_
 **UML Activity Diagram:**
-![Reliable Reviews Activity Diagram](Project1/1-specification-exercise-jobseeker/Activity_Diagram.png)
+![Reliable Reviews Activity Diagram](C:/Users/gusiy/Desktop/SWE/Project1/1-specification-exercise-jobseeker/Activity_Diagram.png)
 
 
 ## Clickable Prototype
