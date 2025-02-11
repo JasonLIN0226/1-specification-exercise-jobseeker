@@ -29,25 +29,27 @@ Our AI-powered travel planning app enhances trip planning experiences by providi
 
 
 ## User Requirements
-1. **As a family traveler**, I want an AI-generated itinerary that highlights scenic spots **so that** I can capture beautiful photos and immerse my family in local culture.
 
-2. **As a family traveler**, I want a single platform to book flights, accommodations, and event tickets **so that** I can save time and conveniently manage travel for my large group.
+1. **As a family traveler, I want an AI-generated itinerary that highlights scenic spots, so that I can capture beautiful photos and immerse my family in local culture.**
 
-3. **As a family traveler**, I want recommendations for local customs, festivals, and museums **so that** I can share meaningful learning experiences with my children.
+2. **As a family traveler, I want a single platform to book flights, accommodations, and event tickets, so that I can save time and conveniently manage travel for my large group.**
 
-4. **As a family traveler**, I want clear guidance on family-friendly and safe attractions **so that** I can enjoy a stress-free trip without worrying about my kids’ well-being.
+3. **As a family traveler, I want recommendations for local customs, festivals, and museums, so that I can share meaningful learning experiences with my children.**
 
-5. **As a partner traveler**, I want an overview of accurate trip costs and budgeting tips **so that** I can avoid overspending and have a relaxed getaway with my significant other.
+4. **As a family traveler, I want clear guidance on family-friendly and safe attractions, so that I can enjoy a stress-free trip without worrying about my kids’ well-being.**
 
-6. **As a partner traveler**, I want to compare real-time flight deals and weather forecasts in one place **so that** I can quickly adjust our plans if better opportunities or bad weather arise.
+5. **As a partner traveler, I want an overview of accurate trip costs and budgeting tips, so that I can avoid overspending and have a relaxed getaway with my significant other.**
 
-7. **As a partner traveler**, I want reliable reviews of attractions and tours **so that** I can steer clear of tourist traps and focus on genuinely enjoyable experiences.
+6. **As a partner traveler, I want to compare real-time flight deals and weather forecasts in one place, so that I can quickly adjust our plans if better opportunities or bad weather arise.**
 
-8. **As a solo traveler**, I want curated suggestions for authentic local food **so that** I can enjoy the best local cuisine without combing through countless blogs.
+7. **As a partner traveler, I want reliable reviews of attractions and tours, so that I can steer clear of tourist traps and focus on genuinely enjoyable experiences.**
 
-9. **As a solo traveler**, I want to verify which viral travel posts are genuinely worth seeing **so that** I can avoid wasting time on overhyped destinations and focus on true highlights.
+8. **As a solo traveler, I want curated suggestions for authentic local food, so that I can enjoy the best local cuisine without combing through countless blogs.**
 
-10. **As a solo traveler**, I want the option to get itinerary ideas without sharing too much personal data **so that** I can discover new places while protecting my privacy.
+9. **As a solo traveler, I want to verify which viral travel posts are genuinely worth seeing, so that I can avoid wasting time on overhyped destinations and focus on true highlights.**
+
+10. **As a solo traveler, I want the option to get itinerary ideas without sharing too much personal data, so that I can discover new places while protecting my privacy.**
+
 
 ## Activity Diagrams
 **User Story:**
